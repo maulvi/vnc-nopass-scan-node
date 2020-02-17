@@ -10,8 +10,8 @@ var readline = require('readline');
 var fs = require('fs');
 
 var config = {
-	maxThreads: 10,
-	timeOut: 10000,
+	maxThreads: 150,
+	timeOut: 5000,
 	verbose: false
 };
 
